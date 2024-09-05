@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> 
 
 <!--
 **Chaean00/Chaean00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
