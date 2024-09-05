@@ -1,7 +1,14 @@
 ## Hi there 👋
 
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> 
+# OS
+
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> 
+
+# Language
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /> 
+
+# Connect
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 <!--
 **Chaean00/Chaean00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
