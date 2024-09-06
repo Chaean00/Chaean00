@@ -1,21 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=250&section=header&text=Hi&fontSize=90&fontColor=58d178" alt="header"/>
-</div>
-
-* * *
-
-<div align="center">
-  <h1 style="margin-bottom: 0;">:fire: Final Vocabulary :fire:</h1>
-  <h3 style="margin-top: 0;">Interest</h3>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=250&section=header&text=Jeong&nbsp;Taek&nbsp;Kim&fontSize=90&fontColor=58d178" alt="header"/>
 </div>
 
 
 * * *
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaean00&theme=blue-green"/>   
+  <h2>1️⃣ 소개</h2>
+  <h5>Final Vocabulary : Interest</h5>
+  <h5>MBTI : ESFP </h5>
 </div>
+
+
+* * *
+
 <div align="center">
-  <h2>:wrench: Tech :wrench:</h2>
+  <h2>2️⃣ 기술</h2>
 </div>
 
 <div align="center">
@@ -25,31 +26,22 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <a href="https://www.instagram.com/seolijuin/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 </div>
 
-<details>
-  <summary>진행 중</summary>
-  <ul>
-    <li>신한투자증권 프로디지털아카데미 5기</li>
-    <li>졸업작품</li>
-  </ul>
-</details>
-    
+<div align="center">
+  <h2>3️⃣연락처</h2>
+   <a href="https://www.instagram.com/seolijuin/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+</div>
+<div align="center">
+  <h2>4️⃣ 진행 중</h2>
+    <p>- 신한투자증권 프로디지털아카데미 5기 (2024.09 ~)</p>
+    <p>- 졸업작품 (2024.05 ~)</p>
+</div>
 
-<!--
-**Chaean00/Chaean00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>5️⃣ 현재 목표</h2>
+    <p> - 앞으로 진행될 프로젝트 큰 이슈없이 잘 마무리</p>
+    <p> - 정보처리기사 및 SQLD 취득</p>
+</div>
