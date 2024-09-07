@@ -8,8 +8,8 @@
 
 <div align="center">
   <h2>1️⃣ 소개</h2>
-  <h5>Final Vocabulary : Interest</h5>
-  <h5>MBTI : ESFP </h5>
+  <h5>안녕하세요 하는 개발자 김정택입니다. </h5>
+  <h5>나를 소개하는 단어 : Interest</h5>
 </div>
 
 
