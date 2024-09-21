@@ -50,15 +50,7 @@
 * * *
 
 <div>
-  <h2>5️⃣ 연락수단</h2>
-   <a href="https://www.instagram.com/seolijuin/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-</div>
-
-* * *
-
-<div>
-  <h2>6️⃣ 진행 중</h2>
+  <h2>5️⃣ 진행 중</h2>
     <p>🎓 졸업작품 프로젝트 (2024.05 ~)</p>
     <p>💻 신한투자증권 프로디지털아카데미 5기 (2024.09 ~)</p>
 </div>
@@ -66,7 +58,7 @@
 * * *
 
 <div>
-  <h2>7️⃣ 현재 목표</h2>
+  <h2>6️⃣ 현재 목표</h2>
     <p>😀 앞으로 진행될 프로젝트 큰 이슈없이 잘 마무리</p>
     <p>📚 정보처리기사 및 SQLD 취득</p>
 </div>
