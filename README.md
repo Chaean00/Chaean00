@@ -27,3 +27,13 @@
 ## ✌️ 진행
   <p>💻 신한투자증권 프로디지털아카데미 5기 (2024.09 ~ 2025.03)</p>
   <p>🎓 졸업작품 프로젝트 (2024.05 ~ 2024. 12)</p>
+
+---
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Chaean00&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Chaean00"
+  width="600"
+  height="300"
+/>
+</a>
