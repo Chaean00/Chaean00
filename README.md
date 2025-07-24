@@ -1,30 +1,16 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=250&section=header&text=&nbsp;JEONG&nbsp;TAEK&nbsp;KIM&fontSize=90&fontColor=58d178" alt="header"/>
-</div>
+## 👋 About Me
+- 백엔드 개발자를 꿈꾸는 김정택입니다
+- Java/Spring 기반의 서버 개발에 관심이 있습니다
+- 고민하며 성장하는 개발자입니다
 
 ---
 
-  ## 💻 기술스택
-
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-  
-  ![Spring JPA](https://img.shields.io/badge/Spring%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📝 자격증
-  - SQLD
-
----
-
-## 교육
-  <p>💻 신한투자증권 프로디지털아카데미 5기 (2024.09 ~ 2025.03)</p>
+## 🛠 Tech Stack
+- Language: Java, JavaScript, Python
+- Framework: Spring Boot, Spring Data JPA
+- Database: MySQL, MongoDB, Redis
+- Devops / Infra: AWS, Docker
+- Tools: Docker, Git
 
 ---
 
