@@ -23,9 +23,12 @@
 
 ---
 
-## ✌️ 진행
+## 교육
   <p>💻 신한투자증권 프로디지털아카데미 5기 (2024.09 ~ 2025.03)</p>
-  <p>🎓 졸업작품 프로젝트 (2024.05 ~ 2024. 12)</p>
+
+---
+
+[![Chaean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaean00)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
