@@ -10,7 +10,7 @@
 - Framework: Spring Boot, Spring Data JPA
 - Database: MySQL, MongoDB, Redis
 - Devops / Infra: AWS, Docker
-- Tools: Docker, Git
+- Tools: Git, Notion, Slack
 
 ---
 
