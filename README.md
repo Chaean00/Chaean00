@@ -25,3 +25,7 @@
   height="300"
 />
 </a>
+
+---
+
+Blog : [chaean.log](https://velog.io/@chaean/posts)
