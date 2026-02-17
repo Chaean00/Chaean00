@@ -4,11 +4,11 @@
 ---
 
 ## 🛠 Tech Stack
-- Language: Java, Kotlin, JavaScript,
-- Framework: Spring Boot, Spring Data JPA
+- Language: Java, Kotlin, JavaScript
+- Framework / Library: Spring Boot, Spring Data JPA, QueryDSL
 - Database: MySQL, MongoDB, Redis
-- Devops / Infra: AWS, Docker
-- Tools: Git, Notion, Slack
+- Devops / Infra: AWS, Docker, Flyway
+- Tools: Git, Notion, Slack, Jira, Swagger, Apidog
 
 - -----
 
@@ -22,4 +22,4 @@
 
 ---
 
-Blog : [chaean.log](https://velog.io/@chaean/posts)
+Blog : [chaean 개발 일기](https://jmtjmtjmt.tistory.com/)
