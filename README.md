@@ -19,7 +19,3 @@
   height="300"
 />
 </a>
-
----
-
-Blog : [chaean 개발 일기](https://jmtjmtjmt.tistory.com/)
