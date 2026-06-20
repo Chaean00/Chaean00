@@ -4,11 +4,10 @@
 ---
 
 ## 🛠 Tech Stack
-- Language: Java, Kotlin, JavaScript
-- Framework / Library: Spring Boot, Spring Data JPA, QueryDSL
-- Database: MySQL, MongoDB, Redis
+- Language: Java, Kotlin, Go
+- Framework / Library: Spring Boot, Spring Data JPA, QueryDSL, Echo
+- Database: MySQL(MariaDB), MongoDB, Redis
 - Devops / Infra: AWS, Docker, Flyway
-- Tools: Git, Notion, Slack, Jira, Swagger, Apidog
 
 - -----
 
