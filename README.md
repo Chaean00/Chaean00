@@ -1,8 +1,3 @@
-## 👋 About Me
-고민하며 성장하는 개발자입니다
-
----
-
 ## 🛠 Tech Stack
 - Language: Java, Kotlin, Go
 - Framework / Library: Spring Boot, Spring Data JPA, QueryDSL, Echo
